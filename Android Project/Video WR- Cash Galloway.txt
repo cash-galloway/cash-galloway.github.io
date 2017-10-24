@@ -1,0 +1,6 @@
+﻿Cash Galloway
+Mr. Landfried
+Period: 3
+19 October, 2017
+Video Writeup for ChikenOOF
+        When playing ChikenOOF, clicking “Play” plays alerts the user “Game On!!” which then sets a timer to spawn chickens randomly to click on for scoring. Then, when the user clicks “Reset”, it notifies along with a sound effect to notify the user “Game is paused and score is currently set to zero”. When this occurs, timer is now set off and will no longer spawn chickens until the user clicks “Play” again. When the user clicks the “About” button, the screen changes to talk about the founders of ChikenOOF, what school they attend, and to donate to our Paypal. It also shows our logo along with a button to return to the game whenever clicked.
