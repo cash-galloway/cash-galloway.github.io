@@ -1,14 +1,5 @@
-<html lang="en">
-	<head>
-		<link rel="icon" 
-      type="image/png" 
-      href="/images/cashfavicon.png">
-		<meta charset="utf-8">
-		<title>Projects</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<style>
 .headline
-{
+{    
     color: white;
     text-shadow:
     -1px -1px 0 #000,
@@ -73,44 +64,15 @@ html, body{
 
 .headline {
     font-family: "Arial", Arial, serif;
-    font-size: 25px;
+    font-size: 25px; 
     padding-top: 40px;
-}
-
-.Link {
-    font-family: "Arial", Arial, serif;
-    font-size: 25px;
-    padding-bottom:100px; 
-    color: white;
 }
 .center {
     display: table-cell;
-    vertical-align: middle;
+    vertical-align: top;
 }
 
 li a:hover:not(.active) {
     background-color: #111;
     color:white;
 }
-
-	</style>
-	</head>
-	<body>
-	<ul>	
-  <li><a href="index.html">Home</a></li>
-  <li><a href="portfolio.html">Portfolio</a></li>
-  <li><a href="contact.html">Contact</a></li>
-  <li><a href="about.html">About</a></li>
-  <li><a href="project.html">Project</a></li>
-  </ul>
-	
-		<div class="bank"> 
-		    <div class="headline"><h1>Here is where you will locate my projects.</h1>
-		    <h2>Click a link to be transferred to the project of your choice.</h2>
-		    </div>
-		    <a class="Link" href="Android App Project.html">Android App</a>
-		
-		</div>
-</div>
-	</body>
-</html>
